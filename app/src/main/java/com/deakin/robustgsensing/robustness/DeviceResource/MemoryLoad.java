@@ -18,7 +18,7 @@ Log.e("DEBUG", "Running processes:");
 for(
     Iterator i = processes.iterator(); i.hasNext(); )
     {
-        ActivityManager.RunningAppProcessInfo p = (RunningAppProcessInfo)i.next();
+        ActivityManager.RunningAppProcessInfo p = (ActivityManager.RunningAppProcessInfo)i.next();
         Log.e("DEBUG", "  process name: "+p.processName);
         Log.e("DEBUG", "     pid: "+p.pid);
         int[] pids = new int[1];

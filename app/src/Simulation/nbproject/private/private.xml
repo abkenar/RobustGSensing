@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/RawRandomGenerator/AccDataGeneratorUtils.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensoratagenerator/Context/Context.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/RawRandomGenerator/RawBarometerGenerator.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/GAREngine/classifiers/NewClass.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/RawRandomGenerator/GlobaModelHelper.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/RawRandomGenerator/GPSDataGeneratorThread.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/DataLoader/DataLoader.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensoratagenerator/Sensors/Sensor.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/RawRandomGenerator/NewClass.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/RawRandomGenerator/BarSimModel.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/Classifier/TableTennisClassifierNew.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/RawRandomGenerator/HeartRateDataGenerator.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/RawRandomGenerator/GPSDataGenerator.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/GAREngine/sensordatastreamreceiver/SensorDataReceiver.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/RawRandomGenerator/AccDataGeneratorThread.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/GAREngine/BushWalking.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensoratagenerator/Context/GPS.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/RawRandomGenerator/HRSimModel.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/Classifier/ClassiferThread.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/DataLoader/Export2File.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/Activity/Activity.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensoratagenerator/Sensors/Accelerometer.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/Utils/DateTime.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/RawRandomGenerator/HRDataGeneratorUtil.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/SensorDataGeneratorDriver.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/RawRandomGenerator/GPSThreadListRunner.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/Classifier/FeatureExtractor.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/RawRandomGenerator/RawRandomGenerator.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/Classifier/TableTennisPaceClassifier.java</file>
+            <file>file:/C:/Dropbox/PhD/!%20Codes%20For%20PHD/SensorDataGenerator/src/sensordatagenerator/RawRandomGenerator/GPSSimModel.java</file>
+        </group>
+    </open-files>
+</project-private>

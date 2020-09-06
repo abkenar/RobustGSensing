@@ -3,7 +3,8 @@ package com.deakin.robustgsensing.groupsense.utils;
 import android.content.Context;
 import android.provider.Settings.Secure;
 
-import com.mpc.latrobe.eecsar.Globals;
+import com.deakin.robustgsensing.groupsense.Globals;
+
 
 public class DeviceUtils {
 

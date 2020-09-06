@@ -1,6 +1,7 @@
 package com.deakin.robustgsensing.groupsense.utils;
 
-import com.mpc.latrobe.eecsar.constants.Constants;
+import com.deakin.robustgsensing.groupsense.constants.Constants;
+
 
 import java.util.ArrayList;
 import java.util.List;

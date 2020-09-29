@@ -14,6 +14,20 @@ From the perspective of the programmer, we will develop a tool where functions/j
 ![Alt text](https://github.com/abkenar/RobustGSensing/blob/master/figures/robustgsensing.png "RobustGSensing")
 
 
-
+This framework consists of three main packages: groupsense, honeybee and robustness as can be seen: 
 
 ![Alt text](https://github.com/abkenar/RobustGSensing/blob/master/figures/packages.png "Project Packages")
+
+
+GroupSense recognizes physical activities of a group using wearable sensors; HoneyBee is an opportunistic offloading model for mobile edge crowds for forming device clouds on the fly. In the Honeybee model, mobile devices can share work using p2p connectivity. Robustness handles a robust P2P connections between devices.    
+
+Here is a screenshot of our framework running in four connected device using WiFi Direct:
+
+![Alt text](https://github.com/abkenar/RobustGSensing/blob/master/figures/screenshot1.png "Screenshot")
+
+
+Also, we used Temi robot in our prototype implementation as edge node which have adds more sensing power and movement capability to our framework for more complex scenarios.   
+
+![Alt text](https://github.com/abkenar/RobustGSensing/blob/master/figures/screenshot2.png "Screenshot")
+
+

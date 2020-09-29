@@ -3,4 +3,6 @@ Resource-Efficient Opportunistic Stream Reasoning using Proactive Edge Computing
 
 
 
-This framewor aims to 
+The aim of this proposal is to develop a lightweight middleware (with programming interface) for efficient data stream processing and reasoning with large volumes of streaming data emerging from the network of devices carried by and worn by a user (which we call the Personal Network of Devices).
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")

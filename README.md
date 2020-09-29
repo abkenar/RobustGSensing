@@ -23,11 +23,11 @@ GroupSense recognizes physical activities of a group using wearable sensors; Hon
 
 Here is a screenshot of our framework running in four connected device using WiFi Direct:
 
-![Alt text](https://github.com/abkenar/RobustGSensing/blob/master/figures/screenshot1.png "Screenshot")
+![Alt text](https://github.com/abkenar/RobustGSensing/blob/master/figures/screenshot1.jpg "Screenshot")
 
 
 Also, we used Temi robot in our prototype implementation as edge node which have adds more sensing power and movement capability to our framework for more complex scenarios.   
 
-![Alt text](https://github.com/abkenar/RobustGSensing/blob/master/figures/screenshot2.png "Screenshot")
+![Alt text](https://github.com/abkenar/RobustGSensing/blob/master/figures/screenshot2.jpg "Screenshot")
 
 

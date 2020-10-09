@@ -3,7 +3,7 @@
 Resource-Efficient Opportunistic Stream Reasoning using Proactive Edge Computing for the Internet-of-Things.
 
 ***
-### Packages
+
 
 The aim of this proposal is to develop a lightweight middleware (with programming interface) for efficient data stream processing and reasoning with large volumes of streaming data emerging from the network of devices carried by and worn by a user (which we call the Personal Network of Devices).
 
@@ -18,6 +18,7 @@ From the perspective of the programmer, we will develop a tool where functions/j
 
 ![Alt text](https://github.com/abkenar/RobustGSensing/blob/master/figures/robustgsensing.png "RobustGSensing")
 
+### Packages
 
 This framework consists of three main packages: groupsense, honeybee and robustness as can be seen: 
 
@@ -25,6 +26,41 @@ This framework consists of three main packages: groupsense, honeybee and robustn
 
 
 GroupSense recognizes physical activities of a group using wearable sensors; HoneyBee is an opportunistic offloading model for mobile edge crowds for forming device clouds on the fly. In the Honeybee model, mobile devices can share work using p2p connectivity. Robustness handles a robust P2P connections between devices.    
+
+### _GronustSense-Sim_ (Simulator)
+
+In order to run our scenario in larger scale scenarios and in a more realistic manner, a sensor data simulator called GroupSense-Sim was built to generate the required sensor data based on real data which was collected beforehand. The simulator is able to generate accelerometer data for a range of atomic activities (such as walking, running, standing, cycling and jogging) from two sources: a smartphone and a smartwatch. The simulator can generate random coordinates for individuals with a given starting point and route path for a certain period of time for a given activity. For example, by defining an expression and passing arguments: an activity (for instance walking), start time, end time, route path and individual/group, the simulator generates the GPS data.
+
+```java
+gpsModelList = new ArrayList<GPSSimModel>();
+
+Route waypoints = new Route(new Location("Waypoint 1", -37.7000688,
+145.0462786));
+
+Location initLocation = new Location("initLoc", -37.7024212, 145.044288);
+
+GPSSimModel gpsModel = new GPSSimModel(initLocation, waypoints, p3,
+Activity.ActivityName.walking, "2016-04-20 19:20:10",
+"2016-04-20 19:20:30");
+
+gpsModelList.add(gpsModel);
+
+```
+
+### Used Dataset
+
+<https://sites.google.com/site/groupsense2018/datasets>
+
+
+### Technology Stack
+* Android SDK
+* Java (for Simulator)
+* FireBase
+* Android SDK
+* TensorFlow 
+
+
+### Prototype Screenshots
 
 Here is a screenshot of our framework running in four connected device using WiFi Direct:
 

@@ -32,9 +32,9 @@ This framework consists of three main packages as can be seen in the follwoing i
 * #### _Robustness_ :
 Robustness handles a robust P2P connections between devices.    
 
-<p align="center">
+
 ![Alt text](https://github.com/abkenar/RobustGSensing/blob/master/figures/packages.png "Project Packages")
-</p>
+
 
 ***
 

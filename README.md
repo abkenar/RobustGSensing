@@ -87,30 +87,3 @@ Also, we used Temi robot in our prototype implementation as edge node which have
 
 ![Alt text](https://github.com/abkenar/RobustGSensing/blob/master/figures/screenshot2.jpg "Screenshot")
 
-
-───vcsMetadata-1
-│   ├───buildOutputCleanup
-│   └───vcs-1
-├───.idea
-│   ├───caches
-│   ├───codeStyles
-│   └───libraries
-├───app
-│   ├───libs
-│   └───src
-│       ├───androidTest
-│       │   └───java
-│       │       └───com
-│       │           └───deakin
-│       │               └───robustgsensing
-│       ├───HARTensorFlow
-│       │   ├───.idea
-│       │   ├───data
-│       │   └───UCIHARDataset
-│       │       ├───test
-│       │       │   └───Inertial Signals
-│       │       └───train
-│       │           └───Inertial Signals
-│       ├───main
-│       │   ├───java
-│       │   │   └───com

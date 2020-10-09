@@ -20,14 +20,20 @@ From the perspective of the programmer, we will develop a tool where functions/j
 
 ### Packages
 
-This framework consists of three main packages: groupsense, honeybee and robustness as can be seen: 
+This framework consists of three main packages as can be seen in the follwoing image: 
+
+* #### _GroupSense_:
+ GroupSense recognizes physical activities of a group using wearable sensors.
+* #### _HoneyBee_:
+ HoneyBee is an opportunistic offloading model for mobile edge crowds for forming device clouds on the fly. In the Honeybee model, mobile devices can share work using p2p connectivity.
+
+* #### _Robustness_ :
+Robustness handles a robust P2P connections between devices.    
 
 ![Alt text](https://github.com/abkenar/RobustGSensing/blob/master/figures/packages.png "Project Packages")
 
 
-GroupSense recognizes physical activities of a group using wearable sensors; HoneyBee is an opportunistic offloading model for mobile edge crowds for forming device clouds on the fly. In the Honeybee model, mobile devices can share work using p2p connectivity. Robustness handles a robust P2P connections between devices.    
-
-### _GronustSense-Sim_ (Simulator)
+  ### _GronustSense-Sim_ (Simulator)
 
 In order to run our scenario in larger scale scenarios and in a more realistic manner, a sensor data simulator called GroupSense-Sim was built to generate the required sensor data based on real data which was collected beforehand. The simulator is able to generate accelerometer data for a range of atomic activities (such as walking, running, standing, cycling and jogging) from two sources: a smartphone and a smartwatch. The simulator can generate random coordinates for individuals with a given starting point and route path for a certain period of time for a given activity. For example, by defining an expression and passing arguments: an activity (for instance walking), start time, end time, route path and individual/group, the simulator generates the GPS data.
 

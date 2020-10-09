@@ -18,6 +18,8 @@ From the perspective of the programmer, we will develop a tool where functions/j
 
 ![Alt text](https://github.com/abkenar/RobustGSensing/blob/master/figures/robustgsensing.png "RobustGSensing")
 
+***
+
 ### Packages
 
 This framework consists of three main packages as can be seen in the follwoing image: 
@@ -32,6 +34,7 @@ Robustness handles a robust P2P connections between devices.
 
 ![Alt text](https://github.com/abkenar/RobustGSensing/blob/master/figures/packages.png "Project Packages")
 
+***
 
   ### _GronustSense-Sim_ (Simulator)
 
@@ -52,6 +55,7 @@ Activity.ActivityName.walking, "2016-04-20 19:20:10",
 gpsModelList.add(gpsModel);
 
 ```
+***
 
 ### Used Dataset
 
@@ -59,6 +63,7 @@ https://sites.google.com/site/groupsense2018/datasets
 
 https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI HAR Dataset.zip
 
+***
 
 ### Technology Stack
 * Android SDK
@@ -67,6 +72,7 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI HAR Dataset.
 * Android SDK
 * TensorFlow 
 
+***
 
 ### Prototype Screenshots
 

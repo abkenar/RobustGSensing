@@ -68,15 +68,18 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI HAR Dataset.
 ***
 
 ### Technology Stack
-* Android SDK
+* Android SDK (minSdkVersion 22, targetSdkVersion 29)
+* Wear OS
 * Java (for Simulator)
 * FireBase
-* Android SDK
+* GCE (Google Cloud Engine)
+* WiFi-Direct and Bluetooth Android API
+* WeakAPI
 * TensorFlow 
 
 ***
 
-### Prototype Screenshots
+### Prototype Implementation Screenshots
 
 Here is a screenshot of our framework running in four connected device using WiFi Direct:
 
